@@ -5,6 +5,7 @@
 
 Welcome to the Restaurant Management System, a powerful and efficient tool for managing your restaurant's operations, reservations, orders, and more. This system is designed to streamline restaurant management, enhance customer experiences, and optimize your business processes.
 
+using Python, Django, Javascript, Html, CSS, BootstrapP, Jquery, AJax
 ## Features
 
 - **Table Reservation:** Easily manage table reservations, view availability, and assign tables to customers, ensuring a seamless dining experience.
